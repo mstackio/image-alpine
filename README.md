@@ -1,6 +1,8 @@
 # Alpine Linux image on Mstack
 
 [![Build Status](https://travis-ci.com/mstackio/image-alpine.svg?branch=master)](https://travis-ci.com/mstackio/image-alpine)
+![GitHub](https://img.shields.io/github/license/mstackio/image-alpine)
+![Docker Pulls](https://img.shields.io/docker/pulls/mstackio/alpine)
 
 This image is sourced from the official [Alpine Linux docker repository available on Docker Hub](https://hub.docker.com/_/alpine/).
 
